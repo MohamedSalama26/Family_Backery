@@ -51,7 +51,7 @@ a:hover {
 
 /* Header */
 .header {
-    background-image: url(/image/drew-coffman-1872.jpg);
+    background-image: url(../Image/drew-coffman-1872.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
